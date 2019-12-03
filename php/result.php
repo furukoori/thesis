@@ -11,9 +11,9 @@ $user=[$gender,$kaihou,$seizitu,$gaikou,$tyouwa,$seisinn];
 $match_kikaku='';
 // defineの値はサーバー環境によって変えてください。
 define('HOSTNAME', 'mysql1.php.xdomain.ne.jp');
-define('DATABASE', 'furukori_product');
-define('USERNAME', 'furukori_kori');
-define('PASSWORD', 'KoriGori114');
+define('DATABASE', '*********');
+define('USERNAME', '*********');
+define('PASSWORD', '*********');
 
 //簡易診断テスト用アルゴリズム
 if($gender=="m"){//男性
