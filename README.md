@@ -1,3 +1,4 @@
 卒論用   
-http://furukori.php.xdomain.jp/ques.php   
-http://furukori.php.xdomain.jp
+[link](http://furukori.php.xdomain.jp/ques.php){:target="_blank"}  
+[link](http://furukori.php.xdomain.jp){:target="_blank"}    
+
